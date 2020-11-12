@@ -201,4 +201,6 @@ Open questions:
 
 -> Questions?
 
+-> (slides available on [github](https://github.com/benmaddison/zapf5-dbwg))
+
 ---
